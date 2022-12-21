@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AplikacjaJavaStart/AplikacjaJavaStart.iml" filepath="$PROJECT_DIR$/AplikacjaJavaStart/AplikacjaJavaStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alogrytmika/Cw1/Cw1.iml" filepath="$PROJECT_DIR$/Alogrytmika/Cw1/Cw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Obsługa wyjątków/Cw1/Cw11.iml" filepath="$PROJECT_DIR$/Obsługa wyjątków/Cw1/Cw11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metody klasy Object/Cw1/Cw110.iml" filepath="$PROJECT_DIR$/Metody klasy Object/Cw1/Cw110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Cw1/Cw111.iml" filepath="$PROJECT_DIR$/Enum/Cw1/Cw111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkładoweStatyczne/Cw1/Cw112.iml" filepath="$PROJECT_DIR$/SkładoweStatyczne/Cw1/Cw112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekurencja/Cw1/Cw113.iml" filepath="$PROJECT_DIR$/Rekurencja/Cw1/Cw113.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Cw1/Cw12.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Cw1/Cw12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WprowadzenieDanych/Cw1/Cw13.iml" filepath="$PROJECT_DIR$/WprowadzenieDanych/Cw1/Cw13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enkapsulacja/Cw1/Cw14.iml" filepath="$PROJECT_DIR$/Enkapsulacja/Cw1/Cw14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pętle/Cw1/Cw15.iml" filepath="$PROJECT_DIR$/Pętle/Cw1/Cw15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy Abstrakcyjne/Cw1/Cw16.iml" filepath="$PROJECT_DIR$/Typy Abstrakcyjne/Cw1/Cw16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfizm/Cw1/Cw17.iml" filepath="$PROJECT_DIR$/Polimorfizm/Cw1/Cw17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasa String/Cw1/Cw18.iml" filepath="$PROJECT_DIR$/Klasa String/Cw1/Cw18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listy/Cw1/Cw19.iml" filepath="$PROJECT_DIR$/Listy/Cw1/Cw19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alogrytmika/Cw2/Cw2.iml" filepath="$PROJECT_DIR$/Alogrytmika/Cw2/Cw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dziedziczenie/Cw2/Cw21.iml" filepath="$PROJECT_DIR$/Dziedziczenie/Cw2/Cw21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metody klasy Object/Cw2/Cw210.iml" filepath="$PROJECT_DIR$/Metody klasy Object/Cw2/Cw210.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkładoweStatyczne/Cw2/Cw211.iml" filepath="$PROJECT_DIR$/SkładoweStatyczne/Cw2/Cw211.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekurencja/Cw2/Cw212.iml" filepath="$PROJECT_DIR$/Rekurencja/Cw2/Cw212.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WprowadzenieDanych/Cw2/Cw22.iml" filepath="$PROJECT_DIR$/WprowadzenieDanych/Cw2/Cw22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enkapsulacja/Cw2/Cw23.iml" filepath="$PROJECT_DIR$/Enkapsulacja/Cw2/Cw23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Cw2/Cw24.iml" filepath="$PROJECT_DIR$/Enum/Cw2/Cw24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listy/Cw2/Cw25.iml" filepath="$PROJECT_DIR$/Listy/Cw2/Cw25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pętle/Cw2/Cw26.iml" filepath="$PROJECT_DIR$/Pętle/Cw2/Cw26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasa String/Cw2/Cw27.iml" filepath="$PROJECT_DIR$/Klasa String/Cw2/Cw27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfizm/Cw2/Cw28.iml" filepath="$PROJECT_DIR$/Polimorfizm/Cw2/Cw28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy Abstrakcyjne/Cw2/Cw29.iml" filepath="$PROJECT_DIR$/Typy Abstrakcyjne/Cw2/Cw29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfizm/Cw2Film/Cw2Film.iml" filepath="$PROJECT_DIR$/Polimorfizm/Cw2Film/Cw2Film.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pętle/Cw3/Cw3.iml" filepath="$PROJECT_DIR$/Pętle/Cw3/Cw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkładoweStatyczne/Cw3/Cw31.iml" filepath="$PROJECT_DIR$/SkładoweStatyczne/Cw3/Cw31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debugowanie/Debugowanie.iml" filepath="$PROJECT_DIR$/Debugowanie/Debugowanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaStart.iml" filepath="$PROJECT_DIR$/.idea/JavaStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/JeszczeJedno/JeszczeJedno.iml" filepath="$PROJECT_DIR$/Enum/JeszczeJedno/JeszczeJedno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/JeszczeRaz/JeszczeRaz.iml" filepath="$PROJECT_DIR$/Enum/JeszczeRaz/JeszczeRaz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasaCollections/KlasaCollections.iml" filepath="$PROJECT_DIR$/KlasaCollections/KlasaCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kolejki/Kolejki.iml" filepath="$PROJECT_DIR$/Kolejki/Kolejki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Konstrukcja Super()/Konstrukcja Super().iml" filepath="$PROJECT_DIR$/Konstrukcja Super()/Konstrukcja Super().iml" />
+      <module fileurl="file://$PROJECT_DIR$/Obsługa wyjątków/Lekcja/Lekcja.iml" filepath="$PROJECT_DIR$/Obsługa wyjątków/Lekcja/Lekcja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkładoweStatyczne/Lekcja/Lekcja1.iml" filepath="$PROJECT_DIR$/SkładoweStatyczne/Lekcja/Lekcja1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasa String/Lekcja/Lekcja2.iml" filepath="$PROJECT_DIR$/Klasa String/Lekcja/Lekcja2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpecyfikacjaDostepu/SpecyfikacjaDostepu1/SpecyfikacjaDostepu1.iml" filepath="$PROJECT_DIR$/SpecyfikacjaDostepu/SpecyfikacjaDostepu1/SpecyfikacjaDostepu1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpecyfikacjaDostepu/SpecyfikacjaDostepu2/SpecyfikacjaDostepu2.iml" filepath="$PROJECT_DIR$/SpecyfikacjaDostepu/SpecyfikacjaDostepu2/SpecyfikacjaDostepu2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpecyfikacjaDostepu/SpecyfikacjaDostepu3/SpecyfikacjaDostepu3.iml" filepath="$PROJECT_DIR$/SpecyfikacjaDostepu/SpecyfikacjaDostepu3/SpecyfikacjaDostepu3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrukturySterujace/StrukturySterujace.iml" filepath="$PROJECT_DIR$/StrukturySterujace/StrukturySterujace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tablice/Tablice1/Tablice1.iml" filepath="$PROJECT_DIR$/Tablice/Tablice1/Tablice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tablice/Tablice2/Tablice2.iml" filepath="$PROJECT_DIR$/Tablice/Tablice2/Tablice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tablice/Tablice3/Tablice3.iml" filepath="$PROJECT_DIR$/Tablice/Tablice3/Tablice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treningi/Trening3JavaStart/Trening3JavaStart.iml" filepath="$PROJECT_DIR$/Treningi/Trening3JavaStart/Trening3JavaStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treningi/Treningi JavaStart/Treningi JavaStart.iml" filepath="$PROJECT_DIR$/Treningi/Treningi JavaStart/Treningi JavaStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treningi/Treningi2JavaStart/Treningi2JavaStart.iml" filepath="$PROJECT_DIR$/Treningi/Treningi2JavaStart/Treningi2JavaStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy generyczne/Typy generyczne.iml" filepath="$PROJECT_DIR$/Typy generyczne/Typy generyczne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable i comparator/powt/cw/cw.iml" filepath="$PROJECT_DIR$/Comparable i comparator/powt/cw/cw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wyrazenie lambda/cw1/cw1.iml" filepath="$PROJECT_DIR$/Wyrazenie lambda/cw1/cw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteratory/cw1/cw11.iml" filepath="$PROJECT_DIR$/Iteratory/cw1/cw11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mapy/cw1/cw110.iml" filepath="$PROJECT_DIR$/Mapy/cw1/cw110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zbiory/cw1/cw111.iml" filepath="$PROJECT_DIR$/Zbiory/cw1/cw111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daty i czas/cw1/cw112.iml" filepath="$PROJECT_DIR$/Daty i czas/cw1/cw112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy opakowujące/cw1/cw12.iml" filepath="$PROJECT_DIR$/Typy opakowujące/cw1/cw12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable i comparator/cw1/cw13.iml" filepath="$PROJECT_DIR$/Comparable i comparator/cw1/cw13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasy wewnetrzne/cw1/cw14.iml" filepath="$PROJECT_DIR$/Klasy wewnetrzne/cw1/cw14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przetwarzanie kolekcji/cw1/cw15.iml" filepath="$PROJECT_DIR$/Przetwarzanie kolekcji/cw1/cw15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operacje na tablicach/cw1/cw16.iml" filepath="$PROJECT_DIR$/Operacje na tablicach/cw1/cw16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strumienie/cw1/cw17.iml" filepath="$PROJECT_DIR$/Strumienie/cw1/cw17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Odczyt na plikach/cw1/cw18.iml" filepath="$PROJECT_DIR$/Odczyt na plikach/cw1/cw18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Referencje do metod/cw1/cw19.iml" filepath="$PROJECT_DIR$/Referencje do metod/cw1/cw19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteratory/cw2/cw2.iml" filepath="$PROJECT_DIR$/Iteratory/cw2/cw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable i comparator/powt/cw2/cw21.iml" filepath="$PROJECT_DIR$/Comparable i comparator/powt/cw2/cw21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Referencje do metod/cw2/cw210.iml" filepath="$PROJECT_DIR$/Referencje do metod/cw2/cw210.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mapy/cw2/cw211.iml" filepath="$PROJECT_DIR$/Mapy/cw2/cw211.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daty i czas/cw2/cw212.iml" filepath="$PROJECT_DIR$/Daty i czas/cw2/cw212.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wyrazenie lambda/cw2/cw22.iml" filepath="$PROJECT_DIR$/Wyrazenie lambda/cw2/cw22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy opakowujące/cw2/cw23.iml" filepath="$PROJECT_DIR$/Typy opakowujące/cw2/cw23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable i comparator/cw2/cw24.iml" filepath="$PROJECT_DIR$/Comparable i comparator/cw2/cw24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Przetwarzanie kolekcji/cw2/cw25.iml" filepath="$PROJECT_DIR$/Przetwarzanie kolekcji/cw2/cw25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operacje na tablicach/cw2/cw26.iml" filepath="$PROJECT_DIR$/Operacje na tablicach/cw2/cw26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strumienie/cw2/cw27.iml" filepath="$PROJECT_DIR$/Strumienie/cw2/cw27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zbiory/cw2/cw28.iml" filepath="$PROJECT_DIR$/Zbiory/cw2/cw28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Odczyt na plikach/cw2/cw29.iml" filepath="$PROJECT_DIR$/Odczyt na plikach/cw2/cw29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zbiory/cw3/cw3.iml" filepath="$PROJECT_DIR$/Zbiory/cw3/cw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cwiczenia, powtorki/cwiczenia, powtorki.iml" filepath="$PROJECT_DIR$/cwiczenia, powtorki/cwiczenia, powtorki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klasy wewnetrzne/lekcja/lekcja.iml" filepath="$PROJECT_DIR$/Klasy wewnetrzne/lekcja/lekcja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listy/lekcja cw/lekcja cw.iml" filepath="$PROJECT_DIR$/Listy/lekcja cw/lekcja cw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteratory/lekcja/lekcja1.iml" filepath="$PROJECT_DIR$/Iteratory/lekcja/lekcja1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strumienie/lekcja/lekcja2.iml" filepath="$PROJECT_DIR$/Strumienie/lekcja/lekcja2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Odczyt na plikach/lekcja2/lekcja21.iml" filepath="$PROJECT_DIR$/Odczyt na plikach/lekcja2/lekcja21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy opakowujące/lekcja/lekcja3.iml" filepath="$PROJECT_DIR$/Typy opakowujące/lekcja/lekcja3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Typy Abstrakcyjne/lekcja/lekcja4.iml" filepath="$PROJECT_DIR$/Typy Abstrakcyjne/lekcja/lekcja4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wyrazenie lambda/lekcja/lekcja5.iml" filepath="$PROJECT_DIR$/Wyrazenie lambda/lekcja/lekcja5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mapy/lekcja/lekcja6.iml" filepath="$PROJECT_DIR$/Mapy/lekcja/lekcja6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Odczyt na plikach/lekcja/lekcja7.iml" filepath="$PROJECT_DIR$/Odczyt na plikach/lekcja/lekcja7.iml" />
+    </modules>
+  </component>
+</project>
